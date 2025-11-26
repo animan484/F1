@@ -22,7 +22,7 @@ img { max-width: 100%; display: block; }
 }
 /* to make center*/
 .cent{
-  margin: 0% auto;
+  left: 50%;
 }
 /* Frosted Background */
 .bg {
@@ -262,3 +262,4 @@ margin: 0% auto;
   .btn { padding: 9px 14px; }
 
 }
+
